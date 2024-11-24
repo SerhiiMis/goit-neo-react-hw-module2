@@ -1,0 +1,30 @@
+* {
+  margin: 5px;
+  padding: 0;
+  box-sizing: border-box;
+}
+html {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  scroll-behavior: smooth;
+}
+
+body {
+  line-height: 1.5;
+  background-color: #f9f9f9;
+  color: #333;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin-bottom: 1rem;
+}
+button {
+  cursor: pointer;
+  margin: 5px;
+  padding: 5px;
+}
